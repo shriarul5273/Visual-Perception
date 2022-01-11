@@ -2,7 +2,7 @@ This repository contains my Lab and Practical work for my course on Visual Perce
 
 Instruction on the Lab can be found [here](https://coda.io/@devesh-adlakha/lab-exercises) and Lecture can be found [here](https://www.notion.so/vibot/Online-class-b5dc786be21044dfada8ebbadf27f68f). ***Please Take permission from the corresponding authors to use any lab instructions or lectures.***
 
-Lab Report can be found here [Report-1](Lab/Shriarulmozhivarman_Multi_View_Geometry_Lab_Report.pdf) (Lab-1,Lab-3) and [Report-2](Lab/Shriarulmozhivarman_Multi_View_Geometry_Lab_part_2.pdf) (Lab-2,Lab-4).
+Lab Report can be found here [Report-1](Lab/Shriarulmozhivarman_Multi_View_Geometry_Lab_Report .pdf) (Lab-1,Lab-3) and [Report-2](Lab/Shriarulmozhivarman_Multi_View_Geometry_Lab_part_2.pdf) (Lab-2,Lab-4).
 
 Practical Exercise Report can be found here [Report-1](TP/TP1_shriarulmozhivarman/Visual_Perception_TP.pdf)and [Report-2](TP/TP2_shriarulmozhivarman/Visual_Perception_TP_2.pdf).
 
