@@ -1,8 +1,10 @@
 This repository contains my Lab and Practical work for my course on Visual Perception in Master of computer vision at Université de Bourgogne. The course was taught by Prof David Fofi and Devesh Adlakha. 
 
-Instruction on the Lab can be found [here](https://coda.io/@devesh-adlakha/lab-exercises)
+Instruction on the Lab can be found [here](https://coda.io/@devesh-adlakha/lab-exercises).
 
+Lab Report can be found here [Report-1](Lab/Shriarulmozhivarman_Multi_View_Geometry_Lab_Report.pdf) (Lab-1,Lab-3) and [Report-2](Lab/Shriarulmozhivarman_Multi_View_Geometry_Lab_part_2.pdf) (Lab-2,Lab-4).
 
+Practical Exercise Report can be found here [Report-1](TP/TP1_shriarulmozhivarman/Visual_Perception_TP.pdf)and [Report-2](TP/TP2_shriarulmozhivarman/Visual_Perception_TP_2.pdf).
 
 Lab-1 Camera Calibrarion with DLT.  [matlabcode](Lab/Lab-1-camera-calibrarion-DLT/lab1.m)
 
@@ -109,6 +111,7 @@ Practical Exercise-2 Harris Corner Detector. [matlabcode](TP/TP2_shriarulmozhiva
 ">  
    <img src = "images/TP-2/checker.png" width = 400 height = 400 >
    <img src = "images/TP-2/corners detected.png" width = 400 height = 400>
+   Checker Pattern and corners detected on it
 </p >
 
 
