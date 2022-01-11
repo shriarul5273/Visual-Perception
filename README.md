@@ -91,7 +91,6 @@ Practical Exercise Report can be found here [Report-1](TP/TP1_shriarulmozhivarma
 ">  
    <img src = "images/TP-1/1.png" width = 400 height = 400 >
    <img src = "images/TP-1/2.png" width = 400 height = 400>
-   Triangulation with Noise.
 </p >
 <p align="center"> Triangulation with Noise. </p > 
 
@@ -125,6 +124,5 @@ Practical Exercise Report can be found here [Report-1](TP/TP1_shriarulmozhivarma
 ">  
    <img src = "images/TP-2/Ix.png" width = 400 height = 400 >
    <img src = "images/TP-2/Iy.png" width = 400 height = 400>
-   Derivative of the checker board in x and y
 </p >
 <p align="center"> Derivative of the checker board in x and y. </p > 
