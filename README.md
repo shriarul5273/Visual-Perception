@@ -1,6 +1,6 @@
 This repository contains my Lab and Practical work for my course on Visual Perception in Master of computer vision at Université de Bourgogne. The course was taught by Prof David Fofi and Devesh Adlakha. 
 
-Instruction on the Lab can be found [here](https://coda.io/@devesh-adlakha/lab-exercises).
+Instruction on the Lab can be found [here](https://coda.io/@devesh-adlakha/lab-exercises) and Lecture can be found [here](https://www.notion.so/vibot/Online-class-b5dc786be21044dfada8ebbadf27f68f).Please Take permission from the corrosponding autors if you will you use any of the lab instruction or lectures.
 
 Lab Report can be found here [Report-1](Lab/Shriarulmozhivarman_Multi_View_Geometry_Lab_Report.pdf) (Lab-1,Lab-3) and [Report-2](Lab/Shriarulmozhivarman_Multi_View_Geometry_Lab_part_2.pdf) (Lab-2,Lab-4).
 
